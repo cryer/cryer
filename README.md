@@ -16,12 +16,12 @@
 </p>
 
 <p align="center">
-  <img width="41%" src="https://github-stats-extended.vercel.app/api/top-langs?username=cryer&layout=donut&langs_count=5&theme=gruvbox&size_weight=0.5&count_weight=0.5" alt="Top Langs" />
+  <img width="41%" src="https://github-stats-extended.vercel.app/api/top-langs?username=cryer&layout=donut&langs_count=5&theme=gruvbox&size_weight=0.001&count_weight=0.999" alt="Top Langs" />
   <img width="57%" src="https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=6&theme=gruvbox" alt="WakaTime Stats" />
 </p>
 
 <!-- 活动曲线：收窄至 85% -->
 <p align="center">
-  <img width="85%" src="https://raw.githubusercontent.com/cryer/cryer/output/activity-graph.svg?v=1" alt="Activity Graph" />
+  <img width="99%" src="https://raw.githubusercontent.com/cryer/cryer/output/activity-graph.svg?v=1" alt="Activity Graph" />
 </p>
 
