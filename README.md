@@ -3,3 +3,5 @@
 </a>
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=cryer&layout=pie&langs_count=4&theme=gruvbox)](https://github-stats-extended.vercel.app/api/top-langs?username=cryer&layout=pie&langs_count=4&theme=gruvbox)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=6&theme=gruvbox)](https://wakatime.com/@alan)
