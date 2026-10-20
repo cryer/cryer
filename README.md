@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://cryer.cn/">
+    <img src="./assets/blog.svg" width="480" alt="cryer's Blog" />
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm cryer</h1>
 
 <p align="center">
