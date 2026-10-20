@@ -5,3 +5,5 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=cryer&layout=pie&langs_count=4&theme=gruvbox)](https://github-stats-extended.vercel.app/api/top-langs?username=cryer&layout=pie&langs_count=4&theme=gruvbox)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=6&theme=gruvbox)](https://wakatime.com/@alan)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=cryer&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
