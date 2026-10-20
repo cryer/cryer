@@ -11,7 +11,7 @@
 <!-- 奖杯墙（已换用备用实例，修复失效问题） -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=cryer&theme=gruvbox&no-frame=true&column=7&margin-w=6" alt="trophy" />
+    <img src="https://github-trophies.vercel.app/?username=cryer&theme=gruvbox&no-frame=true&column=7&row=1&margin-w=6" alt="trophy" />
   </a>
 </p>
 
@@ -31,6 +31,3 @@
   <img src="https://raw.githubusercontent.com/cryer/cryer/output/activity-graph.svg?v=1" width="98%" alt="Activity Graph" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cryer&color=b8bb26&style=flat-square&label=Visitors" alt="Visitors" />
-</p>
