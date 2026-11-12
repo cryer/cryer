@@ -1,14 +1,16 @@
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FABD2F&center=true&vCenter=true&width=520&lines=Deep+Learning+%2F+AI+Engineer;Python+%C2%B7+C%2B%2B+%C2%B7+C+%C2%B7+Kotlin;Keep+training%2C+keep+shipping." alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://cryer.cn/">
     <img src="./assets/blog.svg" width="480" alt="cryer's Blog" />
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm cryer</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FABD2F&center=true&vCenter=true&width=520&lines=Deep+Learning+%2F+AI+Engineer;Python+%C2%B7+C%2B%2B+%C2%B7+C+%C2%B7+Kotlin;Keep+training%2C+keep+shipping." alt="Typing SVG" />
-</p>
+
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,cpp,c,kotlin,cmake,linux,git&perline=10" />
