@@ -1,4 +1,4 @@
-<p align="center">
+<img width="535" height="246" alt="image" src="https://github.com/user-attachments/assets/74ffcc5a-f694-4dc1-92eb-e3ea85026389" /><p align="center">
   <a href="https://cryer.cn/">
     <img src="./assets/blog.svg" width="480" alt="cryer's Blog" />
   </a>
@@ -21,10 +21,12 @@
   </a>
 </p>
 
+<!--
 <p align="center">
   <img width="39%" src="https://github-stats-extended.vercel.app/api/top-langs?username=cryer&layout=donut&langs_count=5&theme=gruvbox&size_weight=0.001&count_weight=0.999" alt="Top Langs" />
   <img width="60.5%" src="https://streak-stats.demolab.com?user=cryer&theme=gruvbox&hide_border=true&timezone=Asia%2FShanghai" alt="GitHub Streak" />
 </p>
+-->
 
 <!-- 活动曲线：收窄至 85% -->
 <p align="center">
