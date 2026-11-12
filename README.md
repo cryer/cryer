@@ -1,4 +1,4 @@
-<img width="535" height="246" alt="image" src="https://github.com/user-attachments/assets/74ffcc5a-f694-4dc1-92eb-e3ea85026389" /><p align="center">
+<p align="center">
   <a href="https://cryer.cn/">
     <img src="./assets/blog.svg" width="480" alt="cryer's Blog" />
   </a>
